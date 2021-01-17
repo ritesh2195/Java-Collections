@@ -1,5 +1,6 @@
 package Map;
 
+import java.util.AbstractMap;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
@@ -39,6 +40,14 @@ public class mapInitilization {
         System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
 
         System.out.println(synmap);
+
+        System.out.println(">>>>>>>>>>>>>>>>>>>>>>");
+
+        Map<Integer, String> map4 = Stream.of(new AbstractMap.SimpleEntry<>(1,"ritesh"),
+                                    new AbstractMap.SimpleEntry<>(2,"ranjan") ).
+                                    collect(Collectors.toMap(Map.Entry::getKey,Map.Entry::getValue));
+
+        System.out.println(map4);
 
     }
 }
