@@ -25,6 +25,7 @@ public class printMethod {
         System.out.println("......................");
 
         System.out.println(list1.removeDataBack());
+        System.out.println(list1.removeDataFront());
 
         System.out.println("..........................");
 

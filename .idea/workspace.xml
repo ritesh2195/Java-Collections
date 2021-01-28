@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faf50266-230c-466e-b411-8d90807fe6bb" name="Default Changelist" comment="" />
+    <list default="true" id="faf50266-230c-466e-b411-8d90807fe6bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collection Framework/linkedlist/EmployeeDoublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collection Framework/linkedlist/EmployeeDoublyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collection Framework/linkedlist/printMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collection Framework/linkedlist/printMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/printMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/printMethod.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
