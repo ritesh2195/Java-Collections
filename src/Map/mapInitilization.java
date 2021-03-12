@@ -25,6 +25,7 @@ public class mapInitilization {
         map.put("designation","engineer");
 
         System.out.println(map.get("name"));
+        System.out.println(map.get("ffgrfr"));
         System.out.println(mapInitilization.map1.get("age"));
 
         Map<String, String> map2 = Stream.of(new String [][]{

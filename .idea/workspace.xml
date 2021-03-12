@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="faf50266-230c-466e-b411-8d90807fe6bb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Collection Framework/linkedlist/printMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collection Framework/linkedlist/printMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collection Framework/Map/mapInitilization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collection Framework/Map/mapInitilization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collection Framework/linkedlist/MainMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collection Framework/linkedlist/MainMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Map/mapInitilization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Map/mapInitilization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/MainMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/MainMethod.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,33 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="LinkedListMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LIST.LinkedListMethods" />
-      <module name="Collection Framework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LIST.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.Main" />
-      <module name="Collection Framework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.doublyLinkedList">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Queue.Main" />
       <module name="Collection Framework" />
@@ -83,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.MainMethod" />
+    <configuration name="doublyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListDataStructure.doublyLinkedList" />
       <module name="Collection Framework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="LinkedListDataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +73,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.printMethod" />
+    <configuration name="mapComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map.mapComparison" />
       <module name="Collection Framework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mapInitilization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map.mapInitilization" />
+      <module name="Collection Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="singlyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListDataStructure.singlyLinkedList" />
+      <module name="Collection Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedListDataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.doublyLinkedList" />
+        <item itemvalue="Application.singlyLinkedList" />
+        <item itemvalue="Application.mapInitilization" />
+        <item itemvalue="Application.mapComparison" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.printMethod" />
-        <item itemvalue="Application.MainMethod" />
-        <item itemvalue="Application.LinkedListMethods" />
       </list>
     </recent_temporary>
   </component>

@@ -33,7 +33,6 @@ public class MainMethod {
         System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>");
 
         EmployeeDoublyLinkedList list1 = new EmployeeDoublyLinkedList();
-
         list1.addDataFront(ritesh);
         list1.addDataFront(ranjan);
         list1.addDataFront(sameer);
